@@ -1,3 +1,2 @@
-# Taser 7
-
-Taser 7 For FiveM
+# S&amp;W M&amp;P9
+S&amp;W M&amp;P9 for FiveM
